@@ -1,6 +1,6 @@
 [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 
-# awesome-kahoot
+# Awesome Kahoot!
 
 Vous trouverez ici une liste de quiz sympas à jouer pendant vos team meetings!
 
