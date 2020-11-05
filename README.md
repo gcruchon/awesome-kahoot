@@ -1,4 +1,4 @@
-[![Awesome](images/awesome.svg)](https://github.com/sindresorhus/awesome)
+[![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 
 # awesome-kahoot
 
