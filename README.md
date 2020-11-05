@@ -18,7 +18,7 @@ Vous trouverez ici une liste de quiz sympas à jouer pendant vos team meetings!
 ## Pub / Marques
 
 - [Logo voiture](https://create.kahoot.it/details/logo-voiture/0513a96f-63c1-4b8f-be49-7f0f81bdaac1) - Difficulté : 🔥🔥
-- [Marques](https://create.kahoot.it/details/marques/0c25ad46-38c4-46e5-9721-d21b5455d741)
+- [Marques](https://create.kahoot.it/details/marques/0c25ad46-38c4-46e5-9721-d21b5455d741) - Difficulté : 🔥🔥
 
 ## Séries / Films
 
