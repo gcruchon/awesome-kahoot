@@ -34,9 +34,9 @@ Vous trouverez ici une liste de quiz sympas à jouer pendant vos team meetings!
 
 ## WTF
 
-- [Insolite 1](https://create.kahoot.it/details/insolite-1/5d7df6da-5296-40bb-9a60-b5693ab5e7f2) - Difficulté : 🔥🔥🔥
-- [Insolite 2](https://create.kahoot.it/details/insolite-2/4b681119-a1bf-4d14-a7cb-641a1161122e) - Difficulté : 🔥🔥🔥
-- [Insolite 4](https://create.kahoot.it/details/insolite-4/4adbb64a-4e85-4023-a12a-b9521663500e) - Difficulté : 🔥🔥🔥
+- [Insolite 1](https://create.kahoot.it/details/insolite-1/5d7df6da-5296-40bb-9a60-b5693ab5e7f2) [NSFW] - Difficulté : 🔥🔥🔥
+- [Insolite 2](https://create.kahoot.it/details/insolite-2/4b681119-a1bf-4d14-a7cb-641a1161122e) [NSFW] - Difficulté : 🔥🔥🔥
+- [Insolite 4](https://create.kahoot.it/details/insolite-4/4adbb64a-4e85-4023-a12a-b9521663500e) [NSFW] - Difficulté : 🔥🔥🔥
 - [Insolite 3](https://create.kahoot.it/details/insolite-3/42572e5b-305f-432c-a41d-aa9396e4839f) [NSFW] - Difficulté : 🔥🔥🔥
 
 ## Légende
