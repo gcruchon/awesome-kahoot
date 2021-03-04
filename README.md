@@ -12,6 +12,7 @@ Vous trouverez ici une liste de quiz sympas à jouer pendant vos team meetings!
  - [Drapeaux](https://create.kahoot.it/details/drapeau/11211483-1515-4f30-81b6-37624133ae96) 🇫🇷 - Difficulté : 🔥
  - [Boulangerie/Patisserie](https://create.kahoot.it/share/boulangerie-patisserie/a11e6f6d-c560-479f-95ef-36dbb24340d9) 🇫🇷 - Difficulté : 🔥
  - [Les pays](https://create.kahoot.it/details/7498ddde-aa83-4168-8a48-a70e16e820ce) 🇫🇷 - Difficulté : 🔥🔥
+ - [Révisions Programme 4e - 20 questions](https://create.kahoot.it/share/revisions-programme-de-4e/5e592995-3f48-42c4-b80b-896d5f896ab6) 🇫🇷 - Difficulté : 🔥
 
 ## Informatique
 
