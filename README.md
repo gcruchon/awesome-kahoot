@@ -32,6 +32,9 @@ Vous trouverez ici une liste de quiz sympas à jouer pendant vos team meetings!
 - [Harry Potter](https://create.kahoot.it/details/harry-potter-ttmc/bd119a23-e24f-4cd6-9828-b950c2b4de4a) 🇫🇷  - Difficulté : 🔥🔥
 - [Thème Kaamelott](https://create.kahoot.it/details/theme-kaamelott/f6bedd4c-85bf-4613-a081-4b5260c8aa78) 🇫🇷  - Difficulté : 🔥🔥
 
+## Jeux vidéos / Jeux de société / Activités
+- [Activités & Jeux de société](https://create.kahoot.it/details/activites-jeux-de-societe/84860bbd-e89c-458b-83b9-de96f99183b0) 🇫🇷  - Difficulté : 🔥🔥
+
 ## SF
 
 - [Seigneur des anneaux](https://create.kahoot.it/details/a3d44e8d-8c0b-4aa9-a03f-670779195b86) - Difficulté : 🔥
