@@ -29,7 +29,7 @@ Vous trouverez ici une liste de quiz sympas à jouer pendant vos team meetings!
 
 - [Autour de la fête d'Halloween](https://create.kahoot.it/details/halloween/f03a3fd1-c549-4ac2-8699-7c922622ef72) 🇫🇷  - Difficulté : 🔥🔥
 - [Confinement challenge 6 mai](https://create.kahoot.it/details/81c00e7e-5f16-40fc-a286-c27a6358147c) 🇫🇷  - Difficulté : 🔥🔥
-- [Les animés des années 80/90] (https://create.kahoot.it/details/les-animes-des-annees-80-90/47c71787-bf68-4812-b826-5ece3b4e454f) 🇫🇷  - Difficulté : 🔥🔥
+- [Les animés des années 80/90](https://create.kahoot.it/details/les-animes-des-annees-80-90/47c71787-bf68-4812-b826-5ece3b4e454f) 🇫🇷  - Difficulté : 🔥🔥
 - [Harry Potter](https://create.kahoot.it/details/harry-potter-ttmc/bd119a23-e24f-4cd6-9828-b950c2b4de4a) 🇫🇷  - Difficulté : 🔥🔥
 - [Thème Kaamelott](https://create.kahoot.it/details/theme-kaamelott/f6bedd4c-85bf-4613-a081-4b5260c8aa78) 🇫🇷  - Difficulté : 🔥🔥
 
