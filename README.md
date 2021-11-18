@@ -10,9 +10,14 @@ Vous trouverez ici une liste de quiz sympas à jouer pendant vos team meetings!
  - [Culture générale](https://create.kahoot.it/details/28ce8e39-214a-4a0e-93f6-23b1f504d03b) 🇫🇷 - Difficulté : 🔥🔥
  - [Culture générale - 50 questions](https://create.kahoot.it/details/culture-generale/467e694f-f1b2-46c0-ba7e-9fe8d3e36d49) 🇫🇷 - Difficulté : 🔥🔥
  - [Drapeaux](https://create.kahoot.it/details/drapeau/11211483-1515-4f30-81b6-37624133ae96) 🇫🇷 - Difficulté : 🔥
- - [Boulangerie/Patisserie](https://create.kahoot.it/share/boulangerie-patisserie/a11e6f6d-c560-479f-95ef-36dbb24340d9) 🇫🇷 - Difficulté : 🔥
+ - [Le pain (et Matrix)](https://create.kahoot.it/details/a74c25a3-95d2-4256-b070-6bdd3ae0bf9a) 🇫🇷 - Difficulté : 🔥🔥
  - [Les pays](https://create.kahoot.it/details/7498ddde-aa83-4168-8a48-a70e16e820ce) 🇫🇷 - Difficulté : 🔥🔥
  - [Révisions Programme 4e - 20 questions](https://create.kahoot.it/share/revisions-programme-de-4e/5e592995-3f48-42c4-b80b-896d5f896ab6) 🇫🇷 - Difficulté : 🔥
+ - [Ilusionnisme](https://create.kahoot.it/details/862a6bde-e1de-40dd-b680-4453dde5ca7c) 🇫🇷 - Difficulté : 🔥🔥
+
+## Cuisine
+ - [Boulangerie/Patisserie](https://create.kahoot.it/share/boulangerie-patisserie/a11e6f6d-c560-479f-95ef-36dbb24340d9) 🇫🇷 - Difficulté : 🔥
+ - [Pizza](https://create.kahoot.it/details/21f38eef-bf8c-4acc-ad8a-ed71e6aa5f05) 🇫🇷 - Difficulté : 🔥🔥
 
 ## Informatique
 
