@@ -15,6 +15,7 @@ Vous trouverez ici une liste de quiz sympas à jouer pendant vos team meetings!
  - [Le pain (et Matrix)](https://create.kahoot.it/details/a74c25a3-95d2-4256-b070-6bdd3ae0bf9a) 🇫🇷 - Difficulté : 🔥🔥
  - [Les pays](https://create.kahoot.it/details/7498ddde-aa83-4168-8a48-a70e16e820ce) 🇫🇷 - Difficulté : 🔥🔥
  - [Révisions Programme 4e - 20 questions](https://create.kahoot.it/share/revisions-programme-de-4e/5e592995-3f48-42c4-b80b-896d5f896ab6) 🇫🇷 - Difficulté : 🔥
+ - [Culture générale](https://create.kahoot.it/share/super-minute-culture/0b951381-e941-41ae-a418-691ad93c101b) 🇫🇷 - Difficulté : 🔥🔥🔥
 
 ## Cuisine
 
