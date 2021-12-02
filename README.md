@@ -7,7 +7,8 @@ Vous trouverez ici une liste de quiz sympas à jouer pendant vos team meetings!
 ## Culture générale
 
  - [Bretagne](https://create.kahoot.it/details/cd4504e8-e773-4644-9fe3-c8ead6536267) 🇫🇷 - Difficulté : 🔥🔥
- - [Culture générale](https://create.kahoot.it/details/28ce8e39-214a-4a0e-93f6-23b1f504d03b) 🇫🇷 - Difficulté : 🔥🔥
+ - [Culture générale #1](https://create.kahoot.it/details/28ce8e39-214a-4a0e-93f6-23b1f504d03b) 🇫🇷 - Difficulté : 🔥🔥
+ - [Culture générale #2](https://create.kahoot.it/share/super-minute-culture/0b951381-e941-41ae-a418-691ad93c101b) 🇫🇷 - Difficulté : 🔥🔥🔥
  - [Culture générale - 50 questions](https://create.kahoot.it/details/culture-generale/467e694f-f1b2-46c0-ba7e-9fe8d3e36d49) 🇫🇷 - Difficulté : 🔥🔥
  - [Cryptomonnaies et Bitcoin](https://create.kahoot.it/details/cae84698-f9b9-4564-8c1c-54d74212cf23)🇫🇷 - Difficulté : 🔥
  - [Drapeaux](https://create.kahoot.it/details/drapeau/11211483-1515-4f30-81b6-37624133ae96) 🇫🇷 - Difficulté : 🔥
