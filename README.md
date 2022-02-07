@@ -43,6 +43,7 @@ Vous trouverez ici une liste de quiz sympas à jouer pendant vos team meetings!
 
 ## Jeux vidéos / Jeux de société / Activités
 - [Activités & Jeux de société](https://create.kahoot.it/details/activites-jeux-de-societe/84860bbd-e89c-458b-83b9-de96f99183b0) 🇫🇷  - Difficulté : 🔥🔥
+- [Culture Gaming](https://create.kahoot.it/share/axa-preparation-gaming/f489089e-607e-41ba-bb22-237b5b485c41) 🇫🇷  - Difficulté : 🔥🔥🔥
 
 ## SF
 
