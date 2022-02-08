@@ -49,7 +49,7 @@ EN: You will find here a list of nice quiz to play during your team meetings!
 
 ## SF
 
-- [Seigneur des anneaux](https://create.kahoot.it/details/a3d44e8d-8c0b-4aa9-a03f-670779195b86) - Diff. : 🔥
+- [Seigneur des anneaux](https://create.kahoot.it/details/a3d44e8d-8c0b-4aa9-a03f-670779195b86) 🇫🇷 - Diff. : 🔥
 
 ## WTF
 
