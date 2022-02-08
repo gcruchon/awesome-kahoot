@@ -27,6 +27,7 @@ EN: You will find here a list of nice quiz to play during your team meetings!
 
 - [Are you ready for an AZ900 quiz ?](https://create.kahoot.it/details/00457b85-f490-440c-b310-b5a3d7032edd) 🇬🇧 - Diff. : 🔥🔥🔥
 - [Les génies de l'informatique #1](https://create.kahoot.it/share/les-genies-de-l-informatique-1/87c4bb42-7561-43c3-b5eb-4a07f8bcc4d5) 🇫🇷 - Diff. : 🔥🔥🔥
+- [Shortcut keys](https://create.kahoot.it/share/shortcut-keys/87251722-3d79-44ca-b314-7ae48ecd189b) 🇬🇧 - Diff. : 🔥🔥🔥
 - [Thème Claviers](https://create.kahoot.it/details/theme-claviers/550f1092-6d49-48df-a6b1-1f058de23dcf) 🇫🇷 - Diff. : 🔥🔥🔥
 
 ## Pub & Marques / Adv & Brands
